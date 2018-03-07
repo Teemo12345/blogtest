@@ -1,5 +1,4 @@
-## flex-direction
-### 元素排列方向
+## flex-direction -- 排列元素方向
 > [row | row-reverse | column | column-reverse]
 + row 从左到右
 + row-reverse 从右到左
