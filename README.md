@@ -4,7 +4,8 @@
 * https://github.com/SangKa/PWA-Book-CN
 
 ## CSS
-https://github.com/michalsnik/aos
+* https://github.com/michalsnik/aos
+* https://cssanimation.rocks/cn/
 
 ## THEME
 * https://getbuttercake.com/docs/components/typography/
